@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b7d94f52cbbd014780188cd6e99d340, type: 3}
+  m_Name: CameraWithBattery
+  m_EditorClassIdentifier: 
+  itemId: CameraWithBattery
+  displayName: "\u5E26\u7535\u6C60\u7684\u76F8\u673A"
+  description: "\u88C5\u597D\u7535\u6C60\u540E\u53EF\u4EE5\u6253\u5F00\u4E86"
+  examineText: 
+  icon: {fileID: 21300000, guid: f37ca4e8a72e46f4abb78ed5656f22a7, type: 3}
+  examineImage: {fileID: 21300000, guid: 9b905282f66f4af449eeb98a5e10f16a, type: 3}
+  heldPrefab: {fileID: 0}
+  canTakeOut: 0
+  canCombine: 0
